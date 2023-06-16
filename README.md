@@ -1,2 +1,3 @@
-# PwC-Switzerland-Power-BI-Certification---Task-3
-Diversity &amp; Inclusion
+# PwC Switzerland Power BI Virtual Experience Program
+
+## Diversity & Inclusion
